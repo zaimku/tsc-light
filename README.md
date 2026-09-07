@@ -1,5 +1,9 @@
 # TensorCash di Lightning AI Studio
 
+Untuk deployment Nosana, gunakan [panduan Nosana](./NOSANA.md) dan
+[`nosana-job.json`](./nosana-job.json). Skrip Docker di bawah ini khusus
+Lightning AI Studio atau host Linux yang menyediakan Docker + NVIDIA runtime.
+
 Runner ini menjalankan image resmi LuckyPool TensorCash di sebuah container
 Docker background pada mesin GPU Lightning AI Studio.
 
